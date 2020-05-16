@@ -5,8 +5,8 @@ with the following rules:
 - If rolled a 3, 4, or 5: go up one step.
 - If rolled a 6: roll again and go up the resulting amount of steps.
 
-This Random Walk simulation will accept a target floor, and will simulate
-how many round of this game it would take you to reach that floor.
+This Random Walk simulation will accept a target step, and will simulate
+how many round of this game it would take you to reach that step.
 """
 import sys
 
